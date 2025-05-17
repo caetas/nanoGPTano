@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+numpy
+transformers
+datasets
+tiktoken
+wandb
+tqdm
